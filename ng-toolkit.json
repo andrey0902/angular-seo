@@ -1,0 +1,8 @@
+{
+  "universal": {
+    "project": "awesome-seo",
+    "skipInstall": false,
+    "directory": ".",
+    "http": true
+  }
+}
